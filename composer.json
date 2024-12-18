@@ -6,7 +6,6 @@
     "library", "helper", "support"
   ],
   "type": "library",
-  "version": "0.1.0",
   "homepage": "https://github.com/nabeghe/servery-php",
   "license": "MIT",
   "autoload": {
