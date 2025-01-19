@@ -2,7 +2,7 @@
   "name": "nabeghe/servery",
   "description": "Provides easy access to certain details available in the global $_SERVER variable.",
   "keywords": [
-    "servery", "server", "$_SERVER", "host", "ip", "servert ip", "client", "client ip",
+    "servery", "server", "host", "ip", "servert ip", "client", "client ip",
     "library", "helper", "support"
   ],
   "type": "library",
