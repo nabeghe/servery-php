@@ -1,26 +1,23 @@
 {
   "name": "nabeghe/servery",
   "description": "Provides easy access to certain details available in the global $_SERVER variable.",
-  "keywords": [
-    "servery", "server", "host", "ip", "servert ip", "client", "client ip",
-    "library", "helper", "support"
-  ],
+  "keywords": ["client", "client ip", "helper", "host", "ip", "library", "servery", "servert ip", "server", "support"],
   "type": "library",
   "homepage": "https://github.com/nabeghe/servery-php",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "Hadi Akbarzadeh",
+      "email": "elsiomcoder@gmail.com",
+      "homepage": "https://elatel.ir",
+      "role": "Developer"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "Nabeghe\\Servery\\": "src/"
     }
   },
-  "authors": [
-    {
-      "name": "Hadi Akbarzadeh",
-      "email": "hadicoder@gmail.com",
-      "homepage": "https://elatel.ir",
-      "role": "Developer"
-    }
-  ],
   "require": {
     "php": ">=7.4"
   }

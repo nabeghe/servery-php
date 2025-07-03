@@ -1,8 +1,6 @@
-# Servery for PHP.
+# Servery for PHP ≥ 7.4
 
 > Provides easy access to certain details available in the global $_SERVER variable.
-
-<hr>
 
 ## 🫡 Usage
 
@@ -13,8 +11,6 @@ You can install the package via composer:
 ```bash
 composer require nabeghe/servery
 ```
-
-<hr>
 
 #### Example:
 
@@ -68,10 +64,6 @@ echo "Is PhpStorm = ".json_encode(WebServer::isPhpStorm())."\n<br>";
 echo "\n<br>";
 ```
 
-<hr>
-
 ## 📖 License
-
-Copyright (c) Hadi Akbarzadeh
 
 Licensed under the MIT license, see [LICENSE.md](LICENSE.md) for details.
